@@ -1,0 +1,18 @@
+app:
+  name: Hotel Management App
+  version: 1.0
+
+frontend:
+  html: index.html
+  css: style.css
+
+server:
+  port: 8080
+
+features:
+  - Dashboard
+  - Bookings
+  - Rooms
+  - Guests
+  - Payments
+  - Reports
